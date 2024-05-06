@@ -1,0 +1,22 @@
+{
+  "name": "rda_45_question_assignment",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "45_question_assignment": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
